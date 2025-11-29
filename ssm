@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Profile Page</title>
+</head>
+<body>
+<h1>Maram Taha Alsharda </h1>
+<p>I studied at the University of Benghazi, and it was rather difficult.</p>
+<img src= https://i.postimg.cc/W3103hQD/IMG-9162.jpg alt="Photo" width="200">
+<h2>My Skills</h2>
+<ul>
+<li>Programming</li>
+<li>Sports</li>
+</ul>
+<h2> My favorite store Links</h2>
+<a href="https://zakariahome.com/ar-LY/shop/category/kettles"> Take a look at it </a> <br>
+    <a href="https://ar.shein.com/ "> is butifull </a>
+
+<h2>My Schedule</h2>
+<table border="1">
+<tr>
+<th>Day</th>
+<th>Activity</th>
+</tr>
+<tr>
+<td>Tuesday</td>
+<td> internet programing </td>
+</tr>
+</table>
+<h2 id="contact">Contact Me</h2>
+ <form>
+<label>Name please :</label><br>
+<input type="text"><br><br>
+<label>Email please :</label><br>
+        <input type="email"><br><br>
+        <label>Message pleassssee :</label><br>
+        <textarea rows="4" cols="30"></textarea><br><br>
+<input type="submit" value="Send">
+</form>
+<br><br>
+<a href="#top">Back to top</a>
+
+</body>
+</html>
